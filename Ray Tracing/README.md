@@ -10,6 +10,7 @@ Project Animation
   * https://www.tjhsst.edu/~dhyatt/supercomp/n401a.html
   * https://interestingengineering.com/science/what-are-the-physics-behind-bouncing-balls
   * https://www.youtube.com/watch?v=TlEbD5SA8aI
-  * (Optional) What was the most interesting part of the Final Assignment? How could the instructor improve the final project?
+  * 
+  * include ray tracing today and next week 
 
 
